@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196174030491",
+    "project_id": "todo-tylor",
+    "storage_bucket": "todo-tylor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196174030491:android:e7d4a4d78f04ecbce0883e",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196174030491-kcu3fpk0q2vcp6arr95egefp3f7sunu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaK5pMa0yncmRItBUkZCxOy_pg2tUcwks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196174030491-kcu3fpk0q2vcp6arr95egefp3f7sunu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

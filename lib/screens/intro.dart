@@ -29,7 +29,7 @@ class Intro extends StatelessWidget {
         ),
         PageViewModel(
           image: SvgPicture.asset('assets/intro2.svg'),
-          title: 'Todo App',
+          title: 'Easy to use',
           body:
               'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam et lorem eget risus placerat luctus. Nam tristique ligula sed massa finibus consectetur.',
           decoration: const PageDecoration(
